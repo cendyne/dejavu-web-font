@@ -14,7 +14,6 @@ src: url('./mono-oblique.woff2') format('woff2'), url('./mono-oblique.woff') for
 font-family: 'DejaVu Sans Mono';
 font-weight: bold;
 font-style: normal;
-font-weight: normal;
 src: url('./mono-bold.woff2') format('woff2'), url('./mono-bold.woff') format('woff');
 }
 @font-face {
