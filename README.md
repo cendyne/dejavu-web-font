@@ -20,6 +20,8 @@ focuses on four
 - DejaVu Sans Mono Bold Oblique
 - DejaVu Sans Mono Oblique
 
+![preview](preview.png)
+
 At Present the following unicodes are included, this can be adjusted in the build.sh script.
 ```
 U+0000-00FF,U+2500-257F,U+25A0-25FF
