@@ -1,0 +1,25 @@
+@font-face {
+font-family: 'DejaVu Sans Mono';
+font-style: normal;
+font-weight: normal;
+src: url('./mono.woff2') format('woff2'), url('./mono.woff') format('woff');
+}
+@font-face {
+font-family: 'DejaVu Sans Mono';
+font-style: oblique;
+font-weight: normal;
+src: url('./mono-oblique.woff2') format('woff2'), url('./mono-oblique.woff') format('woff');
+}
+@font-face {
+font-family: 'DejaVu Sans Mono';
+font-weight: bold;
+font-style: normal;
+font-weight: normal;
+src: url('./mono-bold.woff2') format('woff2'), url('./mono-bold.woff') format('woff');
+}
+@font-face {
+font-family: 'DejaVu Sans Mono';
+font-style: oblique;
+font-weight: bold;
+src: url('./mono-bold-oblique.woff2') format('woff2'), url('./mono-bold-oblique.woff') format('woff');
+}
